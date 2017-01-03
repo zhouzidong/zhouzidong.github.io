@@ -12,6 +12,6 @@ My Personal Website
 
 ```css
 body {
-  background: yellow;
+  background: red;
 }
 ```
