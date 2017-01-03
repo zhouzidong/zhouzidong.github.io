@@ -10,7 +10,7 @@ My Personal Website
 
 ### 用三个反引号包裹代码 开头三个 结尾三个 反引号是tab上面的按键
 
-```
+```js
 wohenshuai
 wozhidao
 ```
